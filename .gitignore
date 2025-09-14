@@ -1,0 +1,23 @@
+# Fichiers de cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environnements virtuels
+.env
+env/
+venv/
+
+# Fichiers de sortie et données générées
+*.json
+*.pt
+output/
+
+# Fichiers texte (sauf requirements)
+*.txt
+!requirements.txt
+
+# Fichiers de l'IDE
+.vscode/
+.idea/

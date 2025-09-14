@@ -1,0 +1,8 @@
+mediapipe
+opencv-python
+ultralytics
+torch
+OneEuroFilter
+numpy
+scipy
+matplotlib
